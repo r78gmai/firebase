@@ -166,3 +166,6 @@ Project Console: https://console.firebase.google.com/project/firstproject-r7/ove
 Hosting URL: https://firstproject-r7.web.app
 root@lii-CF-B10WWHDR:/home/lii/デスクトップ/firebase# 
 
+firebase.json  index.js  public  style.css
+root@lii-CF-B10WWHDR:/home/lii/デスクトップ/firebase# firebase deploy
+
